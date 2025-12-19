@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Max 270 React",
+      "price": 299,
+      "oldPrice": 499,
+      "image": "/src/assets/product/Untitled design(119) 1.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 1.png",
+        "/src/assets/product/Untitled design(119) 2.png",
+        "/src/assets/product/Untitled design(119) 3.png",
+        "/src/assets/product/Untitled design(119) 4.png"
+      ],
+      "description": "Nike Air Max 270 React combines the tallest Max Air unit with soft, springy Nike React foam for cushioning that doesn't stop.",
+      "reviews": 124,
+      "isNew": true,
+      "category": "Sneakers",
+      "sizes": ["38", "39", "40", "41", "42"]
+    },
+    {
+      "id": 2,
+      "name": "Nike Zoom Fly",
+      "price": 199,
+      "oldPrice": 250,
+      "image": "/src/assets/product/Untitled design(119) 2.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 2.png",
+        "/src/assets/product/Untitled design(119) 3.png",
+        "/src/assets/product/Untitled design(119) 4.png",
+        "/src/assets/product/Untitled design(119) 5.png"
+      ],
+      "description": "Nike Zoom Fly is designed to meet the demands of your toughest tempo runs, long runs and race day.",
+      "reviews": 86,
+      "isNew": false,
+      "category": "Running",
+      "sizes": ["39", "40", "41", "42", "43"]
+    },
+    {
+      "id": 3,
+      "name": "Adidas Ultraboost",
+      "price": 180,
+      "oldPrice": 220,
+      "image": "/src/assets/product/Untitled design(119) 3.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 3.png",
+        "/src/assets/product/Untitled design(119) 4.png",
+        "/src/assets/product/Untitled design(119) 5.png",
+        "/src/assets/product/Untitled design(119) 6.png"
+      ],
+      "description": "Ultraboost running shoes provide comfort and responsiveness at every pace and distance.",
+      "reviews": 210,
+      "isNew": true,
+      "category": "Running",
+      "sizes": ["40", "41", "42", "43", "44"]
+    },
+    {
+      "id": 4,
+      "name": "Puma Nite Fox",
+      "price": 150,
+      "oldPrice": 180,
+      "image": "/src/assets/product/Untitled design(119) 4.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 4.png",
+        "/src/assets/product/Untitled design(119) 5.png",
+        "/src/assets/product/Untitled design(119) 6.png",
+        "/src/assets/product/Untitled design(119) 1.png"
+      ],
+      "description": "Puma Nite Fox offers a bold look with modern comfort technology.",
+      "reviews": 54,
+      "isNew": false,
+      "category": "Casual",
+      "sizes": ["38", "39", "40", "41"]
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Zoom Pegasus",
+      "price": 220,
+      "oldPrice": 280,
+      "image": "/src/assets/product/Untitled design(119) 5.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 5.png",
+        "/src/assets/product/Untitled design(119) 6.png",
+        "/src/assets/product/Untitled design(119) 1.png",
+        "/src/assets/product/Untitled design(119) 2.png"
+      ],
+      "description": "The Nike Air Zoom Pegasus returns to put a spring in your step, using the same responsive foam as its predecessor.",
+      "reviews": 150,
+      "isNew": true,
+      "category": "Running",
+      "sizes": ["39", "40", "41", "42", "43"]
+    },
+    {
+      "id": 6,
+      "name": "Nike Joyride Run Flyknit",
+      "price": 160,
+      "oldPrice": 200,
+      "image": "/src/assets/product/Untitled design(119) 6.png",
+      "images": [
+        "/src/assets/product/Untitled design(119) 6.png",
+        "/src/assets/product/Untitled design(119) 1.png",
+        "/src/assets/product/Untitled design(119) 2.png",
+        "/src/assets/product/Untitled design(119) 3.png"
+      ],
+      "description": "Nike Joyride Run Flyknit is designed to help make running feel easier and give your legs a day off.",
+      "reviews": 95,
+      "isNew": false,
+      "category": "Running",
+      "sizes": ["40", "41", "42", "43"]
+    },
+    {
+      "id": 7,
+      "name": "Running casual shoes",
+      "price": 2999,
+      "image": "/src/assets/Untitled design(110).png",
+      "images": ["/src/assets/Untitled design(110).png", "/src/assets/Untitled design(111).png", "/src/assets/Untitled design(114).png"],
+      "description": "Casual running shoes for everyday comfort.",
+      "reviews": 40,
+      "isNew": false,
+      "category": "Casual",
+      "sizes": ["38", "39", "40", "41", "42"]
+    },
+    {
+      "id": 8,
+      "name": "Slick Premium Sneaker",
+      "price": 2999,
+      "image": "/src/assets/Untitled design(111).png",
+      "images": ["/src/assets/Untitled design(111).png", "/src/assets/Untitled design(114).png", "/src/assets/Untitled design(110).png"],
+      "description": "Premium sneakers for a stylish look.",
+      "reviews": 30,
+      "isNew": true,
+      "category": "Sneakers",
+      "sizes": ["40", "41", "42"]
+    },
+    {
+      "id": 9,
+      "name": "Slick Casual Shoe",
+      "price": 1999,
+      "image": "/src/assets/Untitled design(114).png",
+      "images": ["/src/assets/Untitled design(114).png", "/src/assets/Untitled design(110).png", "/src/assets/Untitled design(111).png"],
+      "description": "Comfortable casual shoes.",
+      "reviews": 25,
+      "isNew": false,
+      "category": "Casual",
+      "sizes": ["39", "40", "41"]
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Sneakers" },
+    { "id": 2, "name": "Running" },
+    { "id": 3, "name": "Casual" },
+    { "id": 4, "name": "Formal" }
+  ],
+  "users": []
+}

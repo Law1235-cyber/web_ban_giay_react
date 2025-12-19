@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import './lightswind.css';
+@plugin 'lightswind/plugin';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
